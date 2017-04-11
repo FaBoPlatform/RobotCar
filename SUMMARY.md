@@ -5,4 +5,4 @@
 	* [組み立てマニュアル](type1/diy.md)
 * Type2型
 	* [BOM](type2/bom.md)
-	* [組み立てマニュアル](type1/diy.md)
+	* [組み立てマニュアル](type2/diy.md)
