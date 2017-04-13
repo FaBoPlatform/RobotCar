@@ -46,6 +46,7 @@ M3-30ネジを各１本使います。
 ![](/type1/img/type1_011.jpg)
 
 ![](/type1/img/type1_012.jpg)
+<hr>
 
 ![](/type1/img/type1_013.jpg)
 
