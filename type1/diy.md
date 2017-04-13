@@ -62,8 +62,10 @@ M3-35ネジを４本使います。<br>
 
 ![](/type1/img/type1_016.jpg)
 
+ボディマウントエクステンションを取り付けます。<br>
 ![](/type1/img/type1_017.jpg)
 
+<hr>
 ![](/type1/img/type1_018.jpg)
 
 ![](/type1/img/type1_019.jpg)
