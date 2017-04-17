@@ -33,7 +33,7 @@ M3-30ネジを２本使います。
 
 ![](/type1/img/type1_006.jpg)
 
-![](/type1/img/type1_007.jpg)
+![](/type1/img/type1_007a.jpg)
 
 ![](/type1/img/type1_008.jpg)
 
@@ -94,7 +94,7 @@ M3-12ネジ２本で固定します。<br>
 シャフトを通す穴にブッシュを外側から取り付けます。<br>
 M3-10ネジ２本（左右合計４本）で固定します。
 
-![](/type1/img/type1_021.jpg)
+![](/type1/img/type1_021b.jpg)
 
 タイヤを取り付けます。<br>
 
