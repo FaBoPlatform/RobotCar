@@ -3,6 +3,8 @@
 * Type1型
 	* [BOM](type1/bom.md)
 	* [組み立てマニュアル](type1/diy.md)
+	* [配線マニュアル](type1/line.md)
 * Type2型
 	* [BOM](type2/bom.md)
 	* [組み立てマニュアル](type2/diy.md)
+	* [配線マニュアル](type2/line.md)
