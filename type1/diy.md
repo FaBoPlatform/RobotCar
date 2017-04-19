@@ -16,7 +16,7 @@
 
 シャフトは150mmを使用します。
 
-![](/type1/img/type1_m00.png)
+![](/type1/img/type1_m00.jpg)
 
 [ フロントを組み立てる ]
 
