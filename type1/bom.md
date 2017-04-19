@@ -36,7 +36,8 @@
 |30| リアタイヤジョイント|2|rear_tire_joint.stl|GClue|
 |31| ボディーフォルダ|4|body_holder.stl|GClue|
 |32| 1050ベアリング|4	|SP-1239|Tamiya|
-|33| 13000mAh モバイルバッテリー|1	|||
-|34| ＵＳＢケーブル 1.3mm|1|||		
-|35| ＵＳＢマイクロケーブル|1|||
-|36| Motor Shield for Raspberry PI|1|GClue|||
+|33| 6V Motor|1|||
+|34| 13000mAh モバイルバッテリー|1	|||
+|35| ＵＳＢケーブル 1.3mm|1|||		
+|36| ＵＳＢマイクロケーブル|1|||
+|37| Motor Shield for Raspberry PI|1|GClue|||
