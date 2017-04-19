@@ -2,8 +2,8 @@
 
 ## バッテリーとの接続
 
-![](/img/type1_blockdiagram002.png)
+![](/type1/img/type1_blockdiagram002.png)
 
 ## モーターとの接続
 
-![](/img/type1_blockdiagram003.png)
+![](/type1/img/type1_blockdiagram003.png)
