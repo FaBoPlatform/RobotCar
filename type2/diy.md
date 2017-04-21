@@ -26,8 +26,6 @@ M2.6−10プラネジを２本使用します。
 
 ![](/type2/img/type2_m03.png)
 
-![](/type2/img/type2_001.jpg)
-
 <hr>
 
 [ ボディマウントエクステンションを取り付ける ]
@@ -57,6 +55,8 @@ M3-12ネジを４本使います。
 ![](/type2/img/type2_m06.png)
 
 ![](/type2/img/type2_m07.png)
+
+![](/type2/img/type2_002.jpg)
 
 <hr>
 
