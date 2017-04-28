@@ -4,4 +4,4 @@
 
 ![](/type2/img/type2_arduino001.png)
 
-![](/type2/img/type2_arduino001.png)
+![](/type2/img/type2_arduino002.png)
