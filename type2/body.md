@@ -1,10 +1,5 @@
 # ボディーのマウント
 
-## 後方
+## 4つのMounter
 
-![](/type1/img/type1_mount001.png)
-
-![](/type1/img/type1_mount002.png)
-
-![](/type1/img/type1_mount003.png)
-
+![](/type2/img/type2_mount001.png)
