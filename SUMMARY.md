@@ -13,6 +13,6 @@
 	* [組み立てマニュアル](type2/diy.md)
 	* [配線マニュアル(RaspberryPI)](type2/line_raspi.md)
 	* [配線マニュアル(Arduino)](type2/line_arduino.md)
-	* [ボディのマウント](type1/body.md)
+	* [ボディのマウント](type2/body.md)
 	* [スマフォキャリア](type2/carrier.md)
 	* [OpenRTM版](openrtm.md)
