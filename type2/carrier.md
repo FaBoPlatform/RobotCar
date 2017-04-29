@@ -16,9 +16,9 @@
 
 落ちないようにピンで止める。
 
-## スマフォ固定具の調整
-
 ![](/type2/img/type2_carrier005.png)
+
+## スマフォ固定具の調整
 
 ![](/type2/img/type2_carrier006.png)
 
