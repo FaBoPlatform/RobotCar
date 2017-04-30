@@ -26,6 +26,14 @@ M2.6−10プラネジを２本使用します。
 
 ![](/type2/img/type2_m03.png)
 
+Arduinoをマウントする場合
+
+![](/type2/img/type2_mount_arduino.png)
+
+RaspberryPIをマウントする場合
+
+![](/type2/img/type2_mount_raspberrypi.png)
+
 <hr>
 
 [ ボディマウントエクステンションを取り付ける ]
