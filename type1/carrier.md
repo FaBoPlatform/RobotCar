@@ -28,21 +28,21 @@
 
 M3ナットで固定する
 
-![](/type1/img/type1_carrier007.png)
+![](/type1/img/type1_carrier006.png)
 
 ## キャリアのマウント
 
 スペーサー大を2〜3つ刺す
 
-![](/type1/img/type1_carrier008.png)
+![](/type1/img/type1_carrier007.png)
 
 キャリアを載せる
 
-![](/type1/img/type1_carrier009.png)
+![](/type1/img/type1_carrier008.png)
 
 ナットで止める
 
-![](/type1/img/type1_carrier010.png)
+![](/type1/img/type1_carrier009.png)
 
 スマフォをマウント
 
