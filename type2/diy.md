@@ -2,7 +2,7 @@
 
 [ アクリルパーツ名称 ]
 
-![](/type2/img/type2_m01.png)
+![](/type2/img/type2_m01_.png)
 
 注意・シャーシ上部とシャーシ下部は方向があります。
 
@@ -24,7 +24,7 @@
 
 M2.6−10プラネジを２本使用します。
 
-![](/type2/img/type2_m03.png)
+![](/type2/img/type2_m03_.png)
 
 Arduinoをマウントする場合
 
@@ -40,15 +40,15 @@ RaspberryPIをマウントする場合
 
 ボディマウントエクステンションを組み立てます。
 
-フロントとリアを1本ずつ合計2本作ります。
+フロントとリアを2本ずつ合計4本作ります。
 
-![](/type1/img/type1_m03.png)
+![](/type1/img/type1_m03_.png)
 
-M3-10ネジを２本（前後合計４本）使用します。
+M3-12ネジを２本（前後合計４本）使用します。
 
-![](/type2/img/type2_m04.png)
+![](/type2/img/type2_m04_.png)
 
-![](/type2/img/type2_m05.png)
+![](/type2/img/type2_m05_.png)
 
 <hr>
 
@@ -60,9 +60,9 @@ M3-10ネジを２本（前後合計４本）使用します。
 
 M3-12ネジを４本使います。
 
-![](/type2/img/type2_m06.png)
+![](/type2/img/type2_m06_.png)
 
-![](/type2/img/type2_m07.png)
+![](/type2/img/type2_m07_.png)
 
 ![](/type2/img/type2_001.jpg)
 
@@ -74,7 +74,7 @@ M3-12ネジを４本使います。
 
 M3-12ネジを２本使います。
 
-![](/type2/img/type2_m08.png)
+![](/type2/img/type2_m08_.png)
 
 モーターのリード線を穴から上に通します。
 
@@ -88,11 +88,11 @@ M3-12ネジを２本使います。
 
 M3-35ネジを５本使い、シャーシ下部を固定します。
 
-![](/type2/img/type2_m09.png)
+![](/type2/img/type2_m09_.png)
 
-![](/type2/img/type2_m10.png)
+![](/type2/img/type2_m10_.png)
 
-![](/type2/img/type2_m11.png)
+![](/type2/img/type2_m11_.png)
 
 ![](/type2/img/type2_003.jpg)
 
@@ -102,7 +102,7 @@ M3-35ネジを５本使い、シャーシ下部を固定します。
 
 [ タイヤの取り付け ]
 
-![](/type2/img/type2_m12.png)
+![](/type2/img/type2_m12_.png)
 
 ![](/type2/img/type2_005.jpg)
 
@@ -116,6 +116,6 @@ M3-35ネジを５本使い、シャーシ下部を固定します。
 
 #完成図
 
-![](/type2/img/type2_m13a.png)
+![](/type2/img/type2_m13a_.png)
 
-![](/type2/img/type2_m13b.png)
+![](/type2/img/type2_m13b_.png)
