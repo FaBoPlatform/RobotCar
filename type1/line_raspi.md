@@ -10,4 +10,4 @@
 
 # 配線イメージ
 
-![](/type1/img/implement001.png)
+![](/type1/img/implement_type1_001.png)
